@@ -79,10 +79,10 @@ function filterByFragile() {
     draw(fragilePackages)
 }
 function filterByCity(city) {
-    const packagesToNampa = packages.filter(p => p.city == city);
+    const packagesToCity = packages.filter(p => p.city == city);
     //const packagesToMeridian = packages.filter(p.city == 'Meridian');
     //draw(packagesToMeridian)
-    draw(packagesToNampa)
+    draw(packagesToCity)
 }
 
 function draw(filteredPackages) {
