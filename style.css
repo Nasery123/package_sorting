@@ -1,0 +1,18 @@
+body{
+    background-image: url('https://st2.depositphotos.com/1008190/9044/i/950/depositphotos_90440858-stock-photo-interior-of-delivery-and-sorting.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+#template{
+    background-color: lightgoldenrodyellow;
+}
+.package{
+    color:white;
+    font-weight:bold;
+    font-size: 33px;
+}
+.filter{
+    font-size: 25px;
+}
